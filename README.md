@@ -14,7 +14,9 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-yoda"  height="120" src="https://c.tenor.com/sTfXq2RbMYMAAAAC/oi-bom.gif">
 </div>
-  -------------------------------------------------------------------------------------------------------
+
+  ##
+    
 <div> 
   <a href="https://www.youtube.com/channel/UCX89YP-UdNANEG61nt7BnkA" target="_blank"><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	 <a href = "mailto:gomesgomesbr2021@gmail.com"><img   src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
